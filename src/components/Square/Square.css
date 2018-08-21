@@ -1,0 +1,9 @@
+.Square {
+    border: 1px solid black;
+    align-content: center;
+    text-align: center;
+}
+
+.Square:hover{
+    border: 1px solid blue;
+}
